@@ -1,2 +1,2 @@
 # teste-aula-2-git
-# alteração no repositório local
+# alteração no repositório atividade
